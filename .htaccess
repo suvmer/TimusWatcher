@@ -1,0 +1,4 @@
+Header add Access-Control-Allow-Origin "*"
+Header add Access-Control-Allow-Methods "GET, PUT, POST, DELETE, OPTIONS"
+Header add Access-Control-Max-Age "1000"
+Header add Access-Control-Allow-Headers "X-Requested-With, Content-Type, X-Auth-Token , Authorization
